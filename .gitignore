@@ -1,0 +1,4 @@
+dsenv
+.env
+.vscode
+__pycache__
