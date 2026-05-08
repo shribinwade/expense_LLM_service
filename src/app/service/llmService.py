@@ -3,7 +3,7 @@ from langchain_mistralai import ChatMistralAI
 from dotenv import load_dotenv, dotenv_values
 from langchain_core.prompts import ChatPromptTemplate,MessagesPlaceholder
 
-from service.Expense import Expense
+from app.service.Expense import Expense
 
 class LLMService:
     def __init__(self):

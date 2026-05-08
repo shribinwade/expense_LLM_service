@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: ds-service
+Version: 1
+Summary: DS Service using Flask, LangChain, and AI integrations
+Author: Shrihari

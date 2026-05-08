@@ -2,4 +2,3 @@ dsenv
 .env
 .vscode
 __pycache__
-.gitignore
